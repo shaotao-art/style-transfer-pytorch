@@ -1,5 +1,5 @@
 #!/bin/bash
-device_idx=5
+device_idx=0
 config_file=./configs/config.py
 run_name=100k-steps-s-w-10.0
 
